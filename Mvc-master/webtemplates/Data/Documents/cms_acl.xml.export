@@ -1,0 +1,11 @@
+﻿<cms_acl version="9.0">
+  <NewDataSet>
+    <cms_acl>
+      <ACLID>2755</ACLID>
+      <ACLInheritedACLs></ACLInheritedACLs>
+      <ACLGUID>f302cf1b-59b5-4ceb-b1c0-348fbc653fbb</ACLGUID>
+      <ACLLastModified>2015-03-24T12:50:53.2212294+01:00</ACLLastModified>
+      <ACLSiteID>184</ACLSiteID>
+    </cms_acl>
+  </NewDataSet>
+</cms_acl>

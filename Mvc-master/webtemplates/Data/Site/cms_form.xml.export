@@ -1,0 +1,87 @@
+﻿<cms_form version="9.0">
+  <NewDataSet>
+    <cms_form>
+      <FormID>110933</FormID>
+      <FormDisplayName>Contact Us</FormDisplayName>
+      <FormName>DancingGoatMvcContactUs</FormName>
+      <FormEmailAttachUploadedDocs>true</FormEmailAttachUploadedDocs>
+      <FormClassID>5013</FormClassID>
+      <FormItems>0</FormItems>
+      <FormClearAfterSave>false</FormClearAfterSave>
+      <FormSiteID>184</FormSiteID>
+      <FormGUID>78c91960-0d53-437d-a305-7a1a74a62f85</FormGUID>
+      <FormLastModified>2015-08-13T16:22:27.0904875+02:00</FormLastModified>
+      <FormLogActivity>true</FormLogActivity>
+    </cms_form>
+    <cms_class>
+      <ClassID>5013</ClassID>
+      <ClassDisplayName>Contact Us</ClassDisplayName>
+      <ClassName>BizForm.DancingGoatMvcContactUs</ClassName>
+      <ClassUsesVersioning>false</ClassUsesVersioning>
+      <ClassIsDocumentType>false</ClassIsDocumentType>
+      <ClassIsCoupledClass>true</ClassIsCoupledClass>
+      <ClassXmlSchema>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="Form_DancingGoatMvc_ContactUs"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="DancingGoatMvcContactUsID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&gt;
+              &lt;xs:element name="FormInserted" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FormUpdated" type="xs:dateTime" /&gt;
+              &lt;xs:element name="UserFirstName" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="UserLastName" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="UserEmail"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="100" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="UserMessage"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//Form_DancingGoatMvc_ContactUs" /&gt;
+      &lt;xs:field xpath="DancingGoatMvcContactUsID" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</ClassXmlSchema>
+      <ClassFormDefinition>&lt;form version="2"&gt;&lt;field column="DancingGoatMvcContactUsID" columnprecision="0" columntype="integer" guid="4b9948ed-9ec0-40f1-9d41-35aa9f716f63" isPK="true" publicfield="false"&gt;&lt;properties&gt;&lt;fieldcaption&gt;DancingGoatMvcContactUsID&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;controlname&gt;labelcontrol&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="UserFirstName" columnsize="200" columntype="text" guid="0adcec6e-a2e7-42c6-accd-a822d833d02f" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;{$dancinggoat.firstname$}&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;AutoCompleteEnableCaching&gt;False&lt;/AutoCompleteEnableCaching&gt;&lt;AutoCompleteFirstRowSelected&gt;False&lt;/AutoCompleteFirstRowSelected&gt;&lt;AutoCompleteShowOnlyCurrentWordInCompletionListItem&gt;False&lt;/AutoCompleteShowOnlyCurrentWordInCompletionListItem&gt;&lt;controlname&gt;TextBoxControl&lt;/controlname&gt;&lt;FilterMode&gt;False&lt;/FilterMode&gt;&lt;Trim&gt;False&lt;/Trim&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="UserLastName" columnsize="200" columntype="text" guid="959d84f7-ab02-4e04-9a81-4d1529d6eed8" reftype="Required" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;{$dancinggoat.lastname$}&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;AutoCompleteEnableCaching&gt;False&lt;/AutoCompleteEnableCaching&gt;&lt;AutoCompleteFirstRowSelected&gt;False&lt;/AutoCompleteFirstRowSelected&gt;&lt;AutoCompleteShowOnlyCurrentWordInCompletionListItem&gt;False&lt;/AutoCompleteShowOnlyCurrentWordInCompletionListItem&gt;&lt;controlname&gt;TextBoxControl&lt;/controlname&gt;&lt;FilterMode&gt;False&lt;/FilterMode&gt;&lt;Trim&gt;False&lt;/Trim&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="UserEmail" columnsize="100" columntype="text" guid="cdd96eac-642d-465e-8fb3-42f4961be8c0" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;{$general.email$}&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;AllowMultipleAddresses&gt;False&lt;/AllowMultipleAddresses&gt;&lt;controlname&gt;emailinput&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="UserMessage" columnsize="500" columntype="text" guid="7bf164d7-7bd6-4f1a-8c7b-b2b936293e22" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;{$general.message$}&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;AutoCompleteEnableCaching&gt;False&lt;/AutoCompleteEnableCaching&gt;&lt;AutoCompleteFirstRowSelected&gt;False&lt;/AutoCompleteFirstRowSelected&gt;&lt;AutoCompleteShowOnlyCurrentWordInCompletionListItem&gt;False&lt;/AutoCompleteShowOnlyCurrentWordInCompletionListItem&gt;&lt;controlname&gt;TextBoxControl&lt;/controlname&gt;&lt;FilterMode&gt;False&lt;/FilterMode&gt;&lt;Trim&gt;False&lt;/Trim&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="FormInserted" columnprecision="0" columntype="datetime" guid="507c7c9d-7a9e-461d-8ed8-12dbdbde1d1b" publicfield="false" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form inserted&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;controlname&gt;calendarcontrol&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="FormUpdated" columnprecision="0" columntype="datetime" guid="51fe0bfd-515c-48e5-96df-057c8551b607" publicfield="false" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form updated&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;controlname&gt;calendarcontrol&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;/form&gt;</ClassFormDefinition>
+      <ClassNodeNameSource></ClassNodeNameSource>
+      <ClassTableName>Form_DancingGoatMvc_ContactUs</ClassTableName>
+      <ClassShowAsSystemTable>false</ClassShowAsSystemTable>
+      <ClassLastModified>2015-08-13T16:22:27.0114875+02:00</ClassLastModified>
+      <ClassGUID>bc26a097-4cb1-4d33-8f24-b6c87650c1ec</ClassGUID>
+      <ClassIsCustomTable>false</ClassIsCustomTable>
+      <ClassSearchCreationDateColumn>FormInserted</ClassSearchCreationDateColumn>
+      <ClassSearchSettings>&lt;search&gt;&lt;item content="False" id="01e7acd5-0eed-4b5c-ba79-a92640227435" name="DancingGoatMvcContactUsID" searchable="True" tokenized="False" /&gt;&lt;item content="False" id="1bef0e01-c3bd-4bdb-8f02-7b017bb37141" name="FormInserted" searchable="True" tokenized="False" /&gt;&lt;item content="False" id="ff83d6a0-4e37-48be-a9ef-ca7b3412823d" name="FormUpdated" searchable="True" tokenized="False" /&gt;&lt;/search&gt;</ClassSearchSettings>
+      <ClassSearchEnabled>true</ClassSearchEnabled>
+      <ClassVersionGUID>11337a45-b1b3-4021-ba7c-c75e2426c917</ClassVersionGUID>
+      <ClassIsForm>true</ClassIsForm>
+    </cms_class>
+  </NewDataSet>
+</cms_form>

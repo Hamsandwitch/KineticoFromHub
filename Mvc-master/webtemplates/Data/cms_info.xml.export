@@ -1,0 +1,32 @@
+﻿<cms_info version="9.0">
+  <NewDataSet>
+    <cms_info>
+      <Key>currentuser</Key>
+      <Value>administrator</Value>
+    </cms_info>
+    <cms_info>
+      <Key>starttime</Key>
+      <Value>4.12.2015 13:58:14</Value>
+    </cms_info>
+    <cms_info>
+      <Key>systemversion</Key>
+      <Value>9.0.0.0</Value>
+    </cms_info>
+    <cms_info>
+      <Key>hotfixversion</Key>
+      <Value>0</Value>
+    </cms_info>
+    <cms_info>
+      <Key>webapplication</Key>
+      <Value>True</Value>
+    </cms_info>
+    <cms_info>
+      <Key>webtemplate</Key>
+      <Value>True</Value>
+    </cms_info>
+    <cms_info>
+      <Key>siteincluded</Key>
+      <Value>True</Value>
+    </cms_info>
+  </NewDataSet>
+</cms_info>

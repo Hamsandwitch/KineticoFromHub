@@ -1,0 +1,53 @@
+﻿<cms_pagetemplate version="9.0">
+  <NewDataSet>
+    <cms_pagetemplate>
+      <PageTemplateID>24921</PageTemplateID>
+      <PageTemplateDisplayName>Ad-hoc: MVC demo</PageTemplateDisplayName>
+      <PageTemplateCodeName>c4320223-863b-42ba-b995-04d7e814c01d</PageTemplateCodeName>
+      <PageTemplateDescription>Ad-hoc template for page "/"</PageTemplateDescription>
+      <PageTemplateFile></PageTemplateFile>
+      <PageTemplateIsPortal>false</PageTemplateIsPortal>
+      <PageTemplateCategoryID>2</PageTemplateCategoryID>
+      <PageTemplateWebParts>&lt;page&gt;&lt;webpartzone id="zoneContent" v="1"&gt;&lt;properties&gt;&lt;property name="containerhideonsubpages"&gt;False&lt;/property&gt;&lt;property name="disableviewstate"&gt;False&lt;/property&gt;&lt;property name="hideonsubpages"&gt;False&lt;/property&gt;&lt;property name="timezonetype"&gt;inherit&lt;/property&gt;&lt;property name="useupdatepanel"&gt;False&lt;/property&gt;&lt;property name="visible"&gt;True&lt;/property&gt;&lt;property name="zonetitle"&gt;Content Zone&lt;/property&gt;&lt;/properties&gt;&lt;webpart controlid="wAA" guid="045bd643-e11d-44fc-b68c-f3e5f9039678" type="editabletext" v="1"&gt;&lt;property name="containerhideonsubpages"&gt;False&lt;/property&gt;&lt;property name="controlid"&gt;wAA&lt;/property&gt;&lt;property name="disablemacros"&gt;False&lt;/property&gt;&lt;property name="disableviewstate"&gt;False&lt;/property&gt;&lt;property name="enableoutputfilter"&gt;False&lt;/property&gt;&lt;property name="hideonsubpages"&gt;False&lt;/property&gt;&lt;property name="htmlareatoolbarlocation"&gt;In&lt;/property&gt;&lt;property name="checkpermissions"&gt;False&lt;/property&gt;&lt;property name="imageautoresize"&gt;&amp;lt;AutoResize&amp;gt;&amp;lt;autoresize /&amp;gt;&amp;lt;autoresize_width /&amp;gt;&amp;lt;autoresize_height /&amp;gt;&amp;lt;autoresize_maxsidesize /&amp;gt;&amp;lt;/AutoResize&amp;gt;&lt;/property&gt;&lt;property name="instanceguid"&gt;045bd643-e11d-44fc-b68c-f3e5f9039678&lt;/property&gt;&lt;property name="outputconverttablestodivs"&gt;none&lt;/property&gt;&lt;property name="outputfixattributes"&gt;True&lt;/property&gt;&lt;property name="outputfixhtml5"&gt;True&lt;/property&gt;&lt;property name="outputfixjavascript"&gt;True&lt;/property&gt;&lt;property name="outputfixlowercase"&gt;True&lt;/property&gt;&lt;property name="outputfixselfclose"&gt;True&lt;/property&gt;&lt;property name="outputfixtags"&gt;True&lt;/property&gt;&lt;property name="outputresolveurls"&gt;True&lt;/property&gt;&lt;property name="partialcachedependencies"&gt;##NONE##&lt;/property&gt;&lt;property name="regiontype"&gt;HtmlEditor&lt;/property&gt;&lt;property name="resolvedynamiccontrols"&gt;True&lt;/property&gt;&lt;property name="selectonlypublished"&gt;False&lt;/property&gt;&lt;property name="timezonetype"&gt;inherit&lt;/property&gt;&lt;property name="useparentcontent"&gt;False&lt;/property&gt;&lt;property name="useupdatepanel"&gt;False&lt;/property&gt;&lt;property name="visible"&gt;True&lt;/property&gt;&lt;property name="webparttitle"&gt;No Content Message&lt;/property&gt;&lt;property name="webparttype"&gt;editabletext&lt;/property&gt;&lt;property name="wordwrap"&gt;True&lt;/property&gt;&lt;/webpart&gt;&lt;webpart controlid="pageplaceholder" guid="1478f6d8-f4f7-460f-9c24-f579b9ad4e54" type="pageplaceholder" v="1"&gt;&lt;property name="controlid"&gt;pageplaceholder&lt;/property&gt;&lt;property name="disablemacros"&gt;False&lt;/property&gt;&lt;property name="disableviewstate"&gt;False&lt;/property&gt;&lt;property name="enableoutputfilter"&gt;False&lt;/property&gt;&lt;property name="checkpermissions"&gt;True&lt;/property&gt;&lt;property name="instanceguid"&gt;1478f6d8-f4f7-460f-9c24-f579b9ad4e54&lt;/property&gt;&lt;property name="outputfixattributes"&gt;True&lt;/property&gt;&lt;property name="outputfixhtml5"&gt;True&lt;/property&gt;&lt;property name="outputfixjavascript"&gt;True&lt;/property&gt;&lt;property name="outputfixlowercase"&gt;True&lt;/property&gt;&lt;property name="outputfixselfclose"&gt;True&lt;/property&gt;&lt;property name="outputfixtags"&gt;True&lt;/property&gt;&lt;property name="outputresolveurls"&gt;True&lt;/property&gt;&lt;property name="usedefaulttemplateonsubpages"&gt;False&lt;/property&gt;&lt;property name="visible"&gt;True&lt;/property&gt;&lt;property name="webparttype"&gt;pageplaceholder&lt;/property&gt;&lt;/webpart&gt;&lt;/webpartzone&gt;&lt;/page&gt;</PageTemplateWebParts>
+      <PageTemplateIsReusable>false</PageTemplateIsReusable>
+      <PageTemplateShowAsMasterTemplate>false</PageTemplateShowAsMasterTemplate>
+      <PageTemplateInheritPageLevels>/</PageTemplateInheritPageLevels>
+      <PageTemplateLayout>&lt;cms:CMSWebPartZone ZoneID="zoneContent" runat="server" /&gt;
+</PageTemplateLayout>
+      <PageTemplateVersionGUID>44c05b91-7396-48c1-bfc5-8b542854f463</PageTemplateVersionGUID>
+      <PageTemplateGUID>c4320223-863b-42ba-b995-04d7e814c01d</PageTemplateGUID>
+      <PageTemplateLastModified>2015-04-10T10:06:14.025547+02:00</PageTemplateLastModified>
+      <PageTemplateSiteID>184</PageTemplateSiteID>
+      <PageTemplateForAllPages>false</PageTemplateForAllPages>
+      <PageTemplateType>mvc</PageTemplateType>
+      <PageTemplateCloneAsAdHoc>false</PageTemplateCloneAsAdHoc>
+      <PageTemplateNodeGUID>db472111-b6eb-49f9-b98a-53ff2a0bccf7</PageTemplateNodeGUID>
+      <PageTemplateIconClass>icon-square-dashed</PageTemplateIconClass>
+    </cms_pagetemplate>
+    <cms_pagetemplatecategory>
+      <CategoryID>43</CategoryID>
+      <CategoryDisplayName>All page templates</CategoryDisplayName>
+      <CategoryName>/</CategoryName>
+      <CategoryGUID>532264bf-95e9-4035-b4ce-fe403c81781a</CategoryGUID>
+      <CategoryLastModified>2015-11-13T17:21:28.9068282+01:00</CategoryLastModified>
+      <CategoryImagePath></CategoryImagePath>
+      <CategoryChildCount>50</CategoryChildCount>
+      <CategoryTemplateChildCount>0</CategoryTemplateChildCount>
+      <CategoryPath>/</CategoryPath>
+      <CategoryLevel>0</CategoryLevel>
+    </cms_pagetemplatecategory>
+    <cms_pagetemplatecategory>
+      <CategoryID>2</CategoryID>
+      <CategoryDisplayName>Ad-hoc</CategoryDisplayName>
+      <CategoryParentID>43</CategoryParentID>
+      <CategoryName>AdHoc</CategoryName>
+      <CategoryGUID>f1b695a0-77ee-4119-ad84-9d77c2504260</CategoryGUID>
+      <CategoryLastModified>2015-11-12T18:24:33.860774+01:00</CategoryLastModified>
+      <CategoryImagePath></CategoryImagePath>
+      <CategoryChildCount>0</CategoryChildCount>
+      <CategoryTemplateChildCount>2155</CategoryTemplateChildCount>
+      <CategoryPath>/AdHoc</CategoryPath>
+      <CategoryLevel>1</CategoryLevel>
+    </cms_pagetemplatecategory>
+  </NewDataSet>
+</cms_pagetemplate>

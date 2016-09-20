@@ -1,0 +1,84 @@
+﻿<newsletter_newsletter version="9.0">
+  <NewDataSet>
+    <newsletter_newsletter>
+      <NewsletterID>575</NewsletterID>
+      <NewsletterDisplayName>MVC Dancing goat newsletter</NewsletterDisplayName>
+      <NewsletterName>DancingGoatMvcNewsletter</NewsletterName>
+      <NewsletterType>T</NewsletterType>
+      <NewsletterSubscriptionTemplateID>468</NewsletterSubscriptionTemplateID>
+      <NewsletterUnsubscriptionTemplateID>469</NewsletterUnsubscriptionTemplateID>
+      <NewsletterSenderName>Dancing Goat</NewsletterSenderName>
+      <NewsletterSenderEmail>dancinggoat@localhost.local</NewsletterSenderEmail>
+      <NewsletterTemplateID>467</NewsletterTemplateID>
+      <NewsletterSiteID>184</NewsletterSiteID>
+      <NewsletterGUID>e7a9b7a7-2a1c-4f46-8a0c-814f3209481d</NewsletterGUID>
+      <NewsletterUnsubscribeUrl>/en-us/subscription/unsubscribe</NewsletterUnsubscribeUrl>
+      <NewsletterBaseUrl>http://localhost/mvcdemo</NewsletterBaseUrl>
+      <NewsletterLastModified>2015-09-18T11:03:05.13268+02:00</NewsletterLastModified>
+      <NewsletterEnableOptIn>false</NewsletterEnableOptIn>
+      <NewsletterSendOptInConfirmation>false</NewsletterSendOptInConfirmation>
+      <NewsletterOptInApprovalURL></NewsletterOptInApprovalURL>
+      <NewsletterTrackOpenEmails>true</NewsletterTrackOpenEmails>
+      <NewsletterTrackClickedLinks>true</NewsletterTrackClickedLinks>
+      <NewsletterDraftEmails></NewsletterDraftEmails>
+      <NewsletterLogActivity>false</NewsletterLogActivity>
+      <NewsletterEnableResending>true</NewsletterEnableResending>
+    </newsletter_newsletter>
+    <newsletter_newsletterissue>
+      <IssueID>6666</IssueID>
+      <IssueSubject>New Brazil coffee in stock</IssueSubject>
+      <IssueText>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;content&gt;
+  &lt;region id="CoffeeName"&gt;Brazil Natural Barra Grande&lt;/region&gt;
+  &lt;region id="CoffeeTeaser"&gt;fruity, sweet and smooth&lt;/region&gt;
+  &lt;region id="coffeePicture"&gt;&amp;lt;img alt="Brazil Natural Barra Grande" border="0" class="responsive-image" src="http://127.0.0.11/CMS/getmedia/ec35b717-e7d6-41ec-a62e-7971e0c46500/brazil_coffee_1200px.aspx" style="height:auto" width="600" /&amp;gt;&amp;lt;br /&amp;gt;
+&amp;amp;nbsp;&lt;/region&gt;
+  &lt;region id="coffeeText"&gt;&amp;lt;table border="0" cellpadding="0" cellspacing="0" class="responsive-table" width="600"&amp;gt;
+	&amp;lt;tbody&amp;gt;
+		&amp;lt;tr&amp;gt;
+			&amp;lt;td align="left" style="font-family: Verdana, sans-serif;font-size: 16px;"&amp;gt;Taste the Natural Barra Grande from the high altitudes of Poco Fundo in the Minas Gerais in Brazil where a family business has been growing coffee for three generations and is really keen on natural processing.&amp;lt;br /&amp;gt;
+			&amp;lt;br /&amp;gt;
+			The path of the Barra Grande has not always been shiny. Father of Sildes Caixeta, the current owner, was forced to sell their company when Sildes was just 5 years old. After long years of waiting, Sildes accomplished to buy the company back and now says that patience is the family secret on how to grow good coffee and teaches his motto to his son.&amp;lt;br /&amp;gt;
+			&amp;lt;br /&amp;gt;
+			This coffee is a blend of Yellow Catuai and Mundo Novo which excellent large beans are patio dried and create a creamy mouthfeel and a cherry flavor with a pinch of chocolate and caramel.&amp;lt;br /&amp;gt;
+			&amp;amp;nbsp;&amp;lt;/td&amp;gt;
+		&amp;lt;/tr&amp;gt;
+		&amp;lt;tr&amp;gt;
+			&amp;lt;td align="center"&amp;gt;&amp;amp;nbsp;
+			&amp;lt;table cellpadding="0" cellspacing="0"&amp;gt;
+				&amp;lt;tbody&amp;gt;
+					&amp;lt;tr&amp;gt;
+						&amp;lt;td align="center" bgcolor="#08768C" height="45" style="padding:5px 10px 5px 10px;border-width: 2px; color: #ffffff; display: block; border-color: #08768C; border-style: solid;" width="180"&amp;gt;&amp;lt;a href="~/Store/Coffee/Brazil-Natural-Barra-Grande" style="font-size:16px; font-weight: normal; font-family: 'Source Sans Pro', sans-serif; text-decoration: none; line-height:45px; width:180; display:inline-block"&amp;gt;&amp;lt;span style="color: #ffffff"&amp;gt;MORE DETAILS&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt;
+					&amp;lt;/tr&amp;gt;
+				&amp;lt;/tbody&amp;gt;
+			&amp;lt;/table&amp;gt;
+			&amp;lt;/td&amp;gt;
+		&amp;lt;/tr&amp;gt;
+	&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&lt;/region&gt;
+&lt;/content&gt;</IssueText>
+      <IssueUnsubscribed>25</IssueUnsubscribed>
+      <IssueNewsletterID>575</IssueNewsletterID>
+      <IssueTemplateID>467</IssueTemplateID>
+      <IssueSentEmails>235</IssueSentEmails>
+      <IssueMailoutTime>2015-09-15T16:23:47.6+02:00</IssueMailoutTime>
+      <IssueShowInNewsletterArchive>false</IssueShowInNewsletterArchive>
+      <IssueGUID>3a6dcea8-4153-4ccd-9ead-a98376e44918</IssueGUID>
+      <IssueLastModified>2015-09-15T16:23:47.6219569+02:00</IssueLastModified>
+      <IssueSiteID>184</IssueSiteID>
+      <IssueStatus>5</IssueStatus>
+      <IssueSenderName>Dancing Goat</IssueSenderName>
+      <IssueSenderEmail>dancinggoat@localhost.local</IssueSenderEmail>
+      <IssueUseUTM>false</IssueUseUTM>
+    </newsletter_newsletterissue>
+    <newsletter_link>
+      <LinkID>20064</LinkID>
+      <LinkIssueID>6666</LinkIssueID>
+      <LinkTarget>http://localhost/mvcdemo/Store/Coffee/Brazil-Natural-Barra-Grande</LinkTarget>
+      <LinkDescription>MORE DETAILS</LinkDescription>
+      <LinkOutdated>false</LinkOutdated>
+      <LinkGUID>eb479a5d-0ff5-404f-8d97-7ca8cb5a89a7</LinkGUID>
+    </newsletter_link>
+  </NewDataSet>
+</newsletter_newsletter>

@@ -1,0 +1,17 @@
+﻿<cms_site version="9.0">
+  <NewDataSet>
+    <cms_site>
+      <SiteID>184</SiteID>
+      <SiteName>DancingGoatMvc</SiteName>
+      <SiteDisplayName>Dancing Goat MVC</SiteDisplayName>
+      <SiteStatus>RUNNING</SiteStatus>
+      <SiteDomainName>127.0.0.77</SiteDomainName>
+      <SiteGUID>341d0474-4632-4b7d-a8ec-ea818881a5cb</SiteGUID>
+      <SiteLastModified>2015-12-04T10:40:34.115178+01:00</SiteLastModified>
+      <SiteIsOffline>false</SiteIsOffline>
+      <SiteOfflineMessage></SiteOfflineMessage>
+      <SitePresentationURL>http://127.0.0.78/DancingGoatMvc9</SitePresentationURL>
+      <SiteIsContentOnly>true</SiteIsContentOnly>
+    </cms_site>
+  </NewDataSet>
+</cms_site>

@@ -1,0 +1,36 @@
+﻿<cms_searchindex version="9.0">
+  <NewDataSet>
+    <cms_searchindex>
+      <IndexID>522</IndexID>
+      <IndexName>DancingGoatMvc.Index</IndexName>
+      <IndexDisplayName>Dancing Goat MVC - Articles, About us, Cafes</IndexDisplayName>
+      <IndexAnalyzerType>subset</IndexAnalyzerType>
+      <IndexIsCommunityGroup>false</IndexIsCommunityGroup>
+      <IndexSettings>&lt;index&gt;
+  &lt;item classnames="DancingGoatMVC.Cafe" id="7dbaa7b9-2419-458f-bc1e-a6579a6635c8" inclatt="False" inclblogcomm="False" inclcats="False" inclforums="False" inclmessagecomm="False" path="/Cafes/%" type="allowed" /&gt;
+  &lt;item classnames="DancingGoatMVC.AboutUs" id="8d869b7b-3c0e-490a-9c30-3ed6a4d90e60" inclatt="False" inclblogcomm="False" inclcats="False" inclforums="False" inclmessagecomm="False" path="/%" type="allowed" /&gt;
+  &lt;item classnames="DancingGoatMVC.AboutUsSection" id="902a6a71-3b38-4e5f-997f-1a40fac2bfd7" inclatt="False" inclblogcomm="False" inclcats="False" inclforums="False" inclmessagecomm="False" path="/About-Us/%" type="allowed" /&gt;
+  &lt;item classnames="DancingGoatMVC.Article" id="fc5f4ab4-045f-49f1-bdef-011f93f363fa" inclatt="False" inclblogcomm="False" inclcats="False" inclforums="False" inclmessagecomm="False" path="/Articles/%" type="allowed" /&gt;
+&lt;/index&gt;</IndexSettings>
+      <IndexGUID>18cafccf-f085-4c7a-b6f5-44c96382d011</IndexGUID>
+      <IndexLastModified>2015-12-04T10:39:16.4284101+01:00</IndexLastModified>
+      <IndexLastRebuildTime>2015-12-04T10:39:16.42741+01:00</IndexLastRebuildTime>
+      <IndexType>cms.document</IndexType>
+      <IndexCustomAnalyzerClassName></IndexCustomAnalyzerClassName>
+      <IndexBatchSize>10000</IndexBatchSize>
+      <IndexStatus>ERROR</IndexStatus>
+    </cms_searchindex>
+    <cms_searchindexsite>
+      <IndexID>522</IndexID>
+      <IndexSiteID>184</IndexSiteID>
+    </cms_searchindexsite>
+    <cms_searchindexculture>
+      <IndexID>522</IndexID>
+      <IndexCultureID>50</IndexCultureID>
+    </cms_searchindexculture>
+    <cms_searchindexculture>
+      <IndexID>522</IndexID>
+      <IndexCultureID>120</IndexCultureID>
+    </cms_searchindexculture>
+  </NewDataSet>
+</cms_searchindex>
